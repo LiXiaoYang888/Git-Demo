@@ -5,5 +5,7 @@ public class MainTest {
         System.out.println("....");
 
         System.out.println("这是main里的");
+        
+        System.out.println("修改了，测试   test里的");
     }
 }
